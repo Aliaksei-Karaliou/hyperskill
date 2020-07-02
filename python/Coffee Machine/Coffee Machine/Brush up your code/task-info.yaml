@@ -251,7 +251,7 @@ files:
 - name: coffee_machine.py
   visible: true
   learner_created: true
-- name: machine/coffee_machine.py
+- name: Coffee Machine/coffee_machine.py
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/371/implement

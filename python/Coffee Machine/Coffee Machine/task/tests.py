@@ -240,4 +240,4 @@ class CoffeeMachineTest(StageTest):
 
 
 if __name__ == '__main__':
-    CoffeeMachineTest('machine.coffee_machine').run_tests()
+    CoffeeMachineTest('Coffee Machine.coffee_machine').run_tests()
